@@ -162,3 +162,8 @@ fabric.properties
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+### Dataset & models ###
+dataset
+backup_model
+
